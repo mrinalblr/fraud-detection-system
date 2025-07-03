@@ -5,6 +5,7 @@ This system simulates real-time fraud detection for financial transactions using
 📈 This project demonstrates real-time streaming, event-driven architecture, Kafka-based messaging, Redis caching, and system observability – making it ideal for senior backend roles.
 
 🏗️ Architecture Diagram
+
                            +------------------------+
                            |   Transaction Client   |
                            |  (Mobile / Backend)    |
